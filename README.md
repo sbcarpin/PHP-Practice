@@ -1,2 +1,2 @@
 # PHP-Practice
- A repository on practicing with PHP and perhaps some projects with it.
+ A repository on practicing PHP through XAMPP. 
