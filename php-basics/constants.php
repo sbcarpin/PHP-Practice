@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
 	<head>
-		<title>Practicing</title>
+		<title>Constants</title>
 	</head>
 	<body>
 
